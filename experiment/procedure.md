@@ -33,5 +33,3 @@ You will find that the time period decreases with increasing &zeta;, i.e. damped
 Use the values of damped natural frequency, &omega;d, and damping factor, &zeta;, and find undamped natural frequency, &omega;n and damping coefficient, C,
 
 <img src="images/img4.jpg" title="" />
-
-<img src="images/img5.jpg" title="" />
