@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "When there is a reduction in amplitude over every cycle of vibration, then the body is said to have",
+      "answers": {
+        "a": "free vibration",
+        "b": "forced vibration",
+        "c": "damped vibration",
+        "d": "none of the mentioned"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Longitudinal vibrations are said to occur when the particles of a body moves",
+      "answers": {
+        "a": "perpendicular to its axis",
+        "b": "parallel to its axis",
+        "c": "in a circle about its axis",
+        "d": "none of the mentioned"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a body is subjected to transverse vibrations, the stress induced in a body will be",
+      "answers": {
+        "a": "tensile stress",
+        "b": "shear stress",
+        "c": "compressive stress",
+        "d": "none of the mentioned"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The natural frequency (in Hz) of free longitudinal vibrations is equal to",
+      "answers": {
+        "a": "1/2&pi;&radic;s/m",
+        "b": "1/2&pi;&radic;g/&delta;",
+        "c": "0.4985/&delta;",
+        "d": "all of the mentioned"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The factor which affects the critical speed of a shaft is",
+      "answers": {
+        "a": "diameter of the disc",
+        "b": "span of the shaft",
+        "c": "eccentricity",
+        "d": "all of the mentioned"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
