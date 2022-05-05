@@ -1,1 +1,1 @@
-## Experiment name
+## Free response of SDOF

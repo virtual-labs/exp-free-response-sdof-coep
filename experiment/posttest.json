@@ -1,37 +1,63 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "In under damped vibrating system, if x1 and x2 are the successive values of the amplitude on the same side of the mean position, then the logarithmic decrement is equal to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "x<sub>1</sub>/x<sub>2</sub>",
+        "b": "log (x<sub>1</sub>/x<sub>2</sub>)",
+        "c": "log (x<sub>1</sub>.x<sub>2</sub>)",
+        "d": "loge (x<sub>1</sub>/x<sub>2</sub>)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The ratio of the maximum displacement of the forced vibration to the deflection due to the static force, is known as",
+      "answers": {
+        "a": "damping factor",
+        "b": "damping coefficient",
+        "c": "logarithmic decrement",
+        "d": "magnification factor"
       },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The equation of motion for a vibrating system with viscous damping is d<sup>2</sup>x/dt<sup>2</sup> + c/m X dx/dt + s/m X x = 0 If the roots of this equation are real, then the system will be",
+      "answers": {
+        "a": "over damped",
+        "b": "under damped",
+        "c": "critically damped",
+        "d": "none of the mentioned"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In vibration isolation system, if &omega;/&omega;n is less than &radic;2 , then for all values of the damping factor, the transmissibility will be where &omega; = Circular frequency of the system in rad/s, and Y&omega;n = Natural circular frequency of vibration of the system in rad/s.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "less than unity",
+        "b": "equal to unity",
+        "c": "greater than unity",
+        "d": "zero"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": ". In vibration isolation system, if &omega;/&omega;n > 1, then the phase difference between the transmitted force and the disturbing force is",
+      "answers": {
+        "a": "0&deg;",
+        "b": "90&deg;",
+        "c": "180&deg;",
+        "d": "270&deg;"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
