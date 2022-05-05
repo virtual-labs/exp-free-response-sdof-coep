@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": ". In vibration isolation system, if &omega;/&omega;n > 1, then the phase difference between the transmitted force and the disturbing force is",
+      "question": "In vibration isolation system, if &omega;/&omega;n > 1, then the phase difference between the transmitted force and the disturbing force is",
       "answers": {
         "a": "0&deg;",
         "b": "90&deg;",
